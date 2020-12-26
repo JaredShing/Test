@@ -12,5 +12,5 @@ Version 1:
 </p>
 
 <p align="center">
-<src="https://user-images.githubusercontent.com/76510750/103146605-2dea8c80-471a-11eb-9fa1-576927a8f506.png">
+<img width="400" height="300" src="https://user-images.githubusercontent.com/76510750/103146605-2dea8c80-471a-11eb-9fa1-576927a8f506.png">
 </p>
