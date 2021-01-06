@@ -14,3 +14,11 @@ Version 1:
 <p align="center">
 <img width="400" height="450" src="https://user-images.githubusercontent.com/76510750/103146605-2dea8c80-471a-11eb-9fa1-576927a8f506.png">
 </p>
+
+
+## Hanoi Tower Solver Java Project
+
+<p align="center">
+<img width="400" height="450" src="https://user-images.githubusercontent.com/76510750/103829167-d49f2900-5048-11eb-853c-15b361ac44bf.png">
+</p>
+
