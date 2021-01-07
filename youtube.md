@@ -19,6 +19,6 @@ Version 1:
 ## Hanoi Tower Solver Java Project
 
 <p align="center">
-<img width="400" height="350" src="https://user-images.githubusercontent.com/76510750/103829167-d49f2900-5048-11eb-853c-15b361ac44bf.png">
+<img width="400" height="300" src="https://user-images.githubusercontent.com/76510750/103829167-d49f2900-5048-11eb-853c-15b361ac44bf.png">
 </p>
 
